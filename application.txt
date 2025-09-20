@@ -1,0 +1,5 @@
+windows os
+python interpreter
+linux os
+git
+mysql
