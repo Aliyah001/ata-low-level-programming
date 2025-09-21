@@ -1,2 +1,0 @@
-c programming language was created by daniel ritchie.
-it was created in the year 1972.

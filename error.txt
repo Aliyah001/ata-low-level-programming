@@ -1,1 +1,0 @@
-if you omit a semicolon after printf, you get a syntax error expecting ';' before 'return'
