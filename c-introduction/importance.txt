@@ -1,0 +1,3 @@
+c is fast and reliable
+it can work on different hardware platforms
+modern languages like python are built on c 
