@@ -1,0 +1,2 @@
+A compiler translates your human-readable C code into machine code (binary) that the computer can execute.
+It also checks your code for errors and enforces the language’s rules before creating the executable.

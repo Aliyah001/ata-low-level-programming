@@ -1,0 +1,2 @@
+the first one only checks the header file in the system directories while
+ the other checks the current working directory before it checks the system directories
