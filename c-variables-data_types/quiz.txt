@@ -1,0 +1,7 @@
+What is the difference between // and /* … */?
+Ans: // is for single line commenting
+    /*...*/ is for multiple line commenting.
+Why do we need keywords in a programming language?
+Ans: we need keywords because they are reserved words that tells the compiler exactly what to do.
+Give 3 examples of C keywords
+Ans: 'int ' 'const 'char '
