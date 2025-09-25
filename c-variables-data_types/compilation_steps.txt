@@ -1,0 +1,5 @@
+THE 4 STAGES OF COMPILATION 
+Preprocessing: It handles the preprocessor directive(#include) and removes comments.
+Compilation: Translates C code into assembly language.
+Assembly: Converts assembly code into machine language(object code).
+Linking: combines object files and libraries into a final executable form.
